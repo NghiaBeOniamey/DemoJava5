@@ -1,13 +1,11 @@
 # Identity Project
 
-Identity Project giúp quản lý dữ liệu tập trung, phân quyền và chuyển hướng. Dự án này nhằm mục đích tạo ra một hệ thống quản lý dữ liệu bảo mật và hiệu quả cho các ứng dụng doanh nghiệp.
-
 ## Mục lục
 
 - [Giới thiệu](#giới-thiệu)
 - [Yêu cầu hệ thống](#yêu-cầu-hệ-thống)
 - [Cài đặt](#cài-đặt)
-- [Cách sử dụng](#cách-sử-dụng)
+- [Cài đặt và sử dụng](#cài-đặt-và-sử-dụng)
 - [Liên hệ](#liên-hệ)
 
 ## Giới thiệu
@@ -31,7 +29,7 @@ Upgrade Yarn
 
 - yarn >= 1.22.10 (v1.22.22 recomended) 
 
-## Cài đặt
+## Cài đặt và sử dụng
 
 Clone repository:
 
