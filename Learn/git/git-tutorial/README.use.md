@@ -159,10 +159,10 @@ Hãy tham khảo các tài liệu sau:
 
 ### Merge Code
 
-1. Can't automatically merge
+1. Can't automatically
 
-   | Can't automatically merge        |
-   | -------------------------------- |
+   | Can't automatically        |
+   | ------------------------------- |
    | ![WarningPullRequest](/Learn/git/git-tutorial/images/GitHub/can't-automatically-merge.png) |
 
 2. Use sourtree
@@ -192,8 +192,46 @@ Hãy tham khảo các tài liệu sau:
    | ![Checkout](/Learn/git/git-tutorial/images/Sourcetree/resolve-confilg-checkout-branch.png)       |
 
    | Merge branch into current branch. <div>Must checkout your branch you want create pull request before.</div> |
-   | ----------------------------------------------------------------------------------------------------------- |
-   | ![Merge](/Learn/git/git-tutorial/images/Sourcetree/resolve-confilg-merge-into-current-branch.png)                                                                                    |
+   |-------------------------------------------------------------------------------------------------------------|
+   | ![Merge](/Learn/git/git-tutorial/images/Sourcetree/merge.png)                                               |
+
+### Rebase
+
+1. Can't automatically
+
+   | Can't automatically        |
+      | ------------------------------- |
+   | ![WarningPullRequest](/Learn/git/git-tutorial/images/GitHub/can't-automatically-merge.png) |
+
+2. Use sourtree
+
+   > Step 1
+
+   Fetch code. >[How to fetch code with Sourcetree](#sourcetree-create-repo--push-fetch-code--get-code-basics)
+
+   > Step 2
+
+   ```
+   > Note:
+
+   1. You can't delete your current branch.
+
+   2. You need commit your code alter delete or checkout branch.
+
+   3. In this example i trying pull request to dev [ Resolve Conflict with VS Code, Intellij Idea ].
+   ```
+
+   | Delete branch you wan't create pull request on side bar Branches. |
+      | ----------------------------------------------------------------- |
+   | ![Delete](/Learn/git/git-tutorial/images/Sourcetree/resolve-conflig-delete-branch.png)                                          |
+
+   | Checkout new branch on remote. |
+      | ------------------------------ |
+   | ![Checkout](/Learn/git/git-tutorial/images/Sourcetree/resolve-confilg-checkout-branch.png)       |
+
+   | Rebase branch into current branch. <div>Must checkout your branch you want create pull request before.</div> |
+      |--------------------------------------------------------------------------------------------------------------|
+   | ![Rebase](/Learn/git/git-tutorial/images/Sourcetree/rebase.png)                                              |
 
 ### Resolve Conflict
 

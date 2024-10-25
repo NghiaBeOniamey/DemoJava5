@@ -40,11 +40,18 @@ danh sách `người tổ chức`, danh sách `agenda`, danh sách `địa đi�
 * Quản lý bộ môn theo cơ sở với cơ sở dự liệu tập trung `Identity` bằng cách đồng bộ dữ liệu.
 
 #### Trưởng Ban Đào Tạo
-* Thực hiện phê duyệt các sự kiện đã được `bộ môn thông qua` thành sự kiện `đã phê duyệt` .
+* Thực hiện phê duyệt các sự kiện đã được `bộ môn thông qua` thành sự kiện `đã thông qua TBDTCS` .
 * `Thống kê` và `xuất` file sự kiện theo học kỳ, bộ môn và cơ sở của quản lý đào tạo.
 * `Xuất` file danh sách điểm danh, danh sách đăng ký tham gia sự kiện.
 * Xem chi tiết thông tin của 1 sự kiện 
 danh sách `người tổ chức`, danh sách `agenda`, danh sách `địa điểm`, danh sách `tài nguyên`, danh sách 'điểm danh', `đăng ký` sự kiện, `minh chứng`
+
+#### Giám Đốc Cơ Sở
+* Thực hiện phê duyệt các sự kiện đã được `TBDTCS thông qua` thành sự kiện `đã phê duyệt` .
+* `Thống kê` và `xuất` file sự kiện theo học kỳ, bộ môn và cơ sở của quản lý đào tạo.
+* `Xuất` file danh sách điểm danh, danh sách đăng ký tham gia sự kiện.
+* Xem chi tiết thông tin của 1 sự kiện
+  danh sách `người tổ chức`, danh sách `agenda`, danh sách `địa điểm`, danh sách `tài nguyên`, danh sách 'điểm danh', `đăng ký` sự kiện, `minh chứng`
 
 #### Ban Đào Tạo: (HO)
 * `Thống kê` và `xuất file` sự kiện theo học kỳ, bộ môn, cơ sở.
@@ -53,10 +60,6 @@ danh sách `người tổ chức`, danh sách `agenda`, danh sách `địa đi�
 danh sách `người tổ chức`, danh sách `agenda`, danh sách `địa điểm`, danh sách `tài nguyên`, danh sách 'điểm danh', `đăng ký` sự kiện, `minh chứng`
 * Quản lý thể loại, đối tượng sự kiện. 
 * Quản lý bộ môn, cơ sở với cơ sở dự liệu tập trung `Identity` bằng cách đồng bộ dữ liệu
-
-## Giới thiệu
-
-Portal Event giúp quản lý thông kê các sự kiện. Dự án này nhằm mục đích tạo ra một hệ thống quản lý sự kiện cho hệ thống fpt lưu trữ, thông kê các thông tin liên quan đến sự kiện.
 
 ## Yêu cầu hệ thống
 
