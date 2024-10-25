@@ -157,6 +157,10 @@ Hãy tham khảo các tài liệu sau:
 
 ## Resolve Conflict
 
+> 2 Option
+
+## Option 1
+
 ### Merge Code
 
 1. Can't automatically
@@ -195,6 +199,9 @@ Hãy tham khảo các tài liệu sau:
    |-------------------------------------------------------------------------------------------------------------|
    | ![Merge](/Learn/git/git-tutorial/images/Sourcetree/merge.png)                                               |
 
+
+## Option 2
+
 ### Rebase
 
 1. Can't automatically
@@ -232,6 +239,10 @@ Hãy tham khảo các tài liệu sau:
    | Rebase branch into current branch. <div>Must checkout your branch you want create pull request before.</div> |
       |--------------------------------------------------------------------------------------------------------------|
    | ![Rebase](/Learn/git/git-tutorial/images/Sourcetree/rebase.png)                                              |
+
+## Resuilt
+
+> 2 option resuilt (let fix it)
 
 ### Resolve Conflict
 
